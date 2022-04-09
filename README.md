@@ -10,7 +10,7 @@
 - Build powerful, fast, user-friendly and reactive web apps
 - Provide amazing user experiences by leveraging the power of JavaScript with ease
 - Understand how data traverses components
-  - Understand how to use the latest React features like the Context API
+  - Understand how to use the latest React features like the Context API.
 
 ### What's inside the course?
 
