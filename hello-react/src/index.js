@@ -1,14 +1,8 @@
-// import React from 'react'
-// import ReactDOM from 'react-dom'
-// import App from './App'
-
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// )
-
 import React from 'react'
-
 import ReactDOM from 'react-dom'
+
+function HelloWorld() {
+  return <div>Hello World</div>
+}
+
+ReactDOM.render(<HelloWorld />, document.querySelector('#root'))
